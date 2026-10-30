@@ -1,4 +1,4 @@
-# Health Buddy — Complete Project Master Documentation
+# Health Buddy
 
 ---
 
