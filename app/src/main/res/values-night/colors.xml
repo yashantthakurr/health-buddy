@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark Mode Palette -->
+    <color name="primary_teal">#80CBC4</color>
+    <color name="primary_teal_light">#004D40</color>
+    <color name="primary_teal_dark">#00251A</color>
+
+    <color name="secondary_blue">#81D4FA</color>
+    <color name="secondary_blue_light">#01579B</color>
+
+    <color name="background_mint">#121212</color>
+    <color name="card_white">#1E1E1E</color>
+    <color name="text_primary">#E0E0E0</color>
+    <color name="text_secondary">#B0B0B0</color>
+    <color name="divider">#333333</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red_error">#EF5350</color>
+    <color name="green_taken">#66BB6A</color>
+</resources>

@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">हेल्थ बडी</string>
+    <string name="title_ai_insights">✨ एआई दवा जानकारी</string>
+    <string name="silence_alarm">🔕 अलार्म बंद करें</string>
+    <string name="call_caregiver">📞 केयरगिवर को कॉल करें</string>
+    <string name="call_doctor">🩺 डॉक्टर को कॉल करें</string>
+    <string name="water_tracker_title">💧 दैनिक पानी का ट्रैकर</string>
+    <string name="water_tracker_progress">आज %1$d / %2$d गिलास पानी पिया</string>
+    <string name="btn_add_water">+1 गिलास 💧</string>
+    <string name="btn_reset_water">रीसेट</string>
+    <string name="read_aloud">बोलकर सुनें</string>
+    <string name="setting_caregiver_phone">केयरगिवर का फ़ोन नंबर</string>
+    <string name="setting_doctor_phone">डॉक्टर का फ़ोन नंबर</string>
+    <string name="prompt_set_caregiver">कृपया केयरगिवर का फ़ोन नंबर दर्ज करें</string>
+    <string name="prompt_set_doctor">कृपया डॉक्टर का फ़ोन नंबर दर्ज करें</string>
+    <string name="title_speed_dial">स्पीड डायल संपर्क</string>
+    <string name="btn_save_contacts">संपर्क सहेजें</string>
+    <string name="action_more">अन्य विकल्प</string>
+    <string name="action_edit">दवा संपादित करें</string>
+    <string name="action_delete">दवा हटाएं</string>
+    <string name="export_pdf_report">📄 डॉक्टर / केयरगिवर रिपोर्ट डाउनलोड करें</string>
+    <string name="confirm_delete_msg">क्या आप निश्चित रूप से %1$s को हटाना चाहते हैं? इस दवा के सभी निर्धारित अलार्म रद्द कर दिए जाएंगे।</string>
+    <string name="hint_stock">स्टॉक संख्या</string>
+    <string name="btn_cancel">रद्द करें</string>
+    <string name="btn_save_changes">बदलाव सहेजें</string>
+    <string name="badge_low_stock">⚠️ कम स्टॉक: %1$d शेष</string>
+    <string name="badge_out_of_stock">🚨 स्टॉक समाप्त - नया खरीदें</string>
+    <string name="nav_home">होम</string>
+    <string name="nav_history">इतिहास</string>
+    <string name="nav_prescription">स्कैन</string>
+    <string name="nav_settings">सेटिंग्स</string>
+    <string name="welcome_morning">शुभ प्रभात 👋</string>
+    <string name="welcome_subtitle">आइए आज आपके स्वास्थ्य का ख्याल रखें।</string>
+    <string name="todays_medicines">आज की दवाएं</string>
+    <string name="add_medicine">+ दवा जोड़ें</string>
+    <string name="scan_prescription">पर्चा स्कैन करें</string>
+    <string name="empty_medicines">अभी तक कोई दवा नहीं जोड़ी गई है।</string>
+    <string name="empty_medicines_hint">शुरू करने के लिए अपनी पहली दवा जोड़ें।</string>
+
+    <string name="hint_email">ईमेल</string>
+    <string name="hint_password">पासवर्ड</string>
+    <string name="hint_confirm_password">पासवर्ड की पुष्टि करें</string>
+
+    <string name="hint_medicine_name">दवा का नाम</string>
+    <string name="hint_dosage">खुराक (जैसे 500mg)</string>
+    <string name="hint_quantity">मात्रा</string>
+    <string name="label_frequency">आवृत्ति</string>
+    <string name="freq_once">दिन में एक बार</string>
+    <string name="freq_twice">दिन में दो बार</string>
+    <string name="freq_thrice">दिन में तीन बार</string>
+    <string name="label_medicine_time">दवा का समय</string>
+    <string name="btn_select_time">समय चुनें</string>
+    <string name="label_food_relation">भोजन का संबंध</string>
+    <string name="save_medicine">दवा सहेजें</string>
+
+    <string name="title_scan">डॉक्टर का पर्चा स्कैन करें</string>
+    <string name="desc_scan">अपने पर्चे का फोटो लें और हेल्थ बडी एआई का उपयोग करके दवाओं को व्यवस्थित करने में मदद करेगा।</string>
+    <string name="btn_take_photo">फोटो लें</string>
+    <string name="btn_choose_gallery">गैलरी से चुनें</string>
+    <string name="placeholder_ai">पर्चा एआई एकीकरण अगले चरण में लागू किया जाएगा।</string>
+
+    <string name="title_settings">सेटिंग्स</string>
+    <string name="setting_language">भाषा / बोली (Language / Voice)</string>
+    <string name="lang_english">English (अंग्रेज़ी)</string>
+    <string name="lang_hindi">हिंदी (Hindi)</string>
+    <string name="setting_notifications">अधिसूचना सेटिंग्स</string>
+    <string name="setting_large_text">बड़ा टेक्स्ट मोड</string>
+    <string name="setting_voice">आवाज सहायता</string>
+    <string name="setting_about">हेल्थ बडी के बारे में</string>
+    <string name="setting_disclaimer">चिकित्सा अस्वीकरण</string>
+    <string name="app_version">संस्करण 1.0</string>
+
+    <string name="label_taken">ली गई</string>
+    <string name="label_take">लें</string>
+    <string name="msg_marked_taken">%1$s ले ली गई है</string>
+    <string name="summary_medicines">आज %1$d ली गई, %2$d शेष</string>
+
+    <string name="history_taken_at">%1$s पर ली गई</string>
+    <string name="history_missed">छूट गई</string>
+
+    <string name="medical_disclaimer_text">हेल्थ बडी सामान्य दवा की जानकारी प्रदान करता है और किसी योग्य स्वास्थ्य पेशेवर की सलाह की जगह नहीं लेता है।</string>
+    <string name="btn_got_it">समझ गया</string>
+    <string name="learn_about_medicine">इस दवा के बारे में जानें</string>
+    <string name="verify_warning">कृपया सहेजने से पहले अपने पर्चे से जानकारी की पुष्टि करें।</string>
+</resources>
